@@ -1,0 +1,1 @@
+screen -AdmS arkcmd python3 main.py

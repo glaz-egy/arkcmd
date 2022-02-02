@@ -1,0 +1,13 @@
+{
+	"server": {
+		"servername": "GamersArkServer",
+		"addr": "127.0.0.1",
+		"rconPort": 27020,
+		"adminPass": "g@mersServerAdmin"
+	},
+	"botconfig": {
+		"token": "OTM4NTE1NDkzOTE5Mjc3MTA4.Yfraqg.wNsEKc9TVyX4FCNSIKcjvxVxzhg",
+		"botadmin": null,
+		"prefix": ";"
+	}
+}
